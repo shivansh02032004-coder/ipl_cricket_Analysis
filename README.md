@@ -2,7 +2,7 @@
 ### _SQL • Python • Power BI — End-to-End Data Analytics Project_
 
 <p align="center">
-  <img src="Dashboard Images/dashboard.png" alt="IPL Dashboard" width="90%">
+  <img src="Dashboard images/dashboard.png" alt="IPL Dashboard" width="90%">
 </p>
 
 ---
