@@ -6,7 +6,7 @@
 </p>
 
 ---
-![logo](https://github.com/shivansh-srivastava/ipl_Cricket_Analysis/blob/main/Dashboard%20image.png)
+![logo](https://github.com/shivansh02032004-coder/ipl_Cricket_Analysis/blob/main/Dashboard%20image.png)
 ## 📌 Table of Contents
 1. [Project Overview](#project-overview)
 2. [Objectives](#objectives)
